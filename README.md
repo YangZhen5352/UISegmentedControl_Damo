@@ -1,0 +1,2 @@
+# UISegmentedControl_Damo
+探究UISegmentedControl的使用和常用功能探究，并且写了一个完整的选项卡视图，供大家参考使用。
